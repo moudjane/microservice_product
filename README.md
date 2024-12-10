@@ -17,5 +17,5 @@ docker compose up
 ```
 
 
-Puis rendez-vous sur [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) pour tester les différentes routes de l'API.
+- Puis rendez-vous sur [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) pour tester les différentes routes de l'API.
 ![swagger.png](src/main/resources/screenshots/swagger.png)
